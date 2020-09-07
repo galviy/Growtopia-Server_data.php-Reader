@@ -7,7 +7,7 @@
 
 ## How To RUN It? (Linux)
 
-1.Open Terminal
+1. Open Terminal
 2. cd File
 3. sudo python3 reader.py
 
