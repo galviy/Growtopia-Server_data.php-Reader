@@ -12,3 +12,4 @@
 3. sudo python3 reader.py
 
 Credit to https://github.com/KIPAS1823/
+![image](https://media.discordapp.net/attachments/752489288377172000/754522504457879625/unknown.png?width=422&height=182)
