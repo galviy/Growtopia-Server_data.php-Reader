@@ -3,7 +3,7 @@
 
 1. Open CMD
 2. cd C:/file/
-3. python reader.py
+3. python windows.py
 
 ## How To RUN It? (Linux)
 
